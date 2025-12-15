@@ -1,0 +1,99 @@
+2025-12-12 18:58:12,802 - INFO - Loading Whisper model: small
+2025-12-12 18:59:14,843 - INFO - Successfully loaded Whisper model: small
+2025-12-12 18:59:14,843 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 18:59:14,855 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 18:59:14,855 - INFO - Returning empty segments list
+2025-12-12 18:59:14,891 - INFO - Wrote SRT: data\transcripts\watch.srt
+2025-12-12 19:04:01,497 - INFO - Loading Whisper model: small
+2025-12-12 19:04:06,544 - INFO - Successfully loaded Whisper model: small
+2025-12-12 19:04:06,544 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 19:04:07,773 - ERROR - Transcription failed: Failed to load audio: ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000191e89648c0] Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000191e89648c0] moov atom not found
+[in#0 @ 00000191e8964640] Error opening input: Invalid data found when processing input
+Error opening input file data\videos\watch.mp4.
+Error opening input files: Invalid data found when processing input
+
+2025-12-12 19:04:07,774 - INFO - Returning empty segments list
+2025-12-12 19:04:07,912 - INFO - Wrote SRT: data\transcripts\watch.srt
+2025-12-12 19:32:35,148 - INFO - Loading Whisper model: small
+2025-12-12 19:32:45,459 - INFO - Successfully loaded Whisper model: small
+2025-12-12 19:32:45,460 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 19:32:45,485 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 19:32:45,485 - INFO - Returning empty segments list
+2025-12-12 19:32:45,569 - INFO - Wrote SRT: data\transcripts\test_video.srt
+2025-12-12 20:01:46,874 - INFO - Loading Whisper model: medium
+2025-12-12 20:04:57,047 - INFO - Successfully loaded Whisper model: medium
+2025-12-12 20:04:57,065 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 20:04:57,336 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 20:04:57,336 - INFO - Returning empty segments list
+2025-12-12 20:04:57,687 - INFO - Wrote SRT: data\transcripts\test_video.srt
+2025-12-12 20:07:33,686 - INFO - Loading Whisper model: medium
+2025-12-12 20:08:23,536 - INFO - Successfully loaded Whisper model: medium
+2025-12-12 20:08:23,561 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 20:08:23,616 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 20:08:23,617 - INFO - Returning empty segments list
+2025-12-12 20:08:23,758 - INFO - Wrote SRT: data\transcripts\videoplayback.srt
+2025-12-12 20:14:44,702 - INFO - Loading Whisper model: small
+2025-12-12 20:14:49,974 - INFO - Successfully loaded Whisper model: small
+2025-12-12 20:14:49,976 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 20:14:50,023 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 20:14:50,023 - INFO - Returning empty segments list
+2025-12-12 20:14:50,068 - INFO - Wrote SRT: data\transcripts\videoplayback.srt
+2025-12-12 20:23:19,975 - INFO - Loading Whisper model: small
+2025-12-12 20:23:25,213 - INFO - Successfully loaded Whisper model: small
+2025-12-12 20:23:25,213 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 20:23:25,219 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 20:23:25,219 - INFO - Returning empty segments list
+2025-12-12 20:23:25,252 - INFO - Wrote SRT: data\transcripts\videoplayback.srt
+2025-12-12 20:25:48,388 - INFO - Loading Whisper model: small
+2025-12-12 20:25:52,115 - INFO - Successfully loaded Whisper model: small
+2025-12-12 20:25:52,115 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 20:25:52,120 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 20:25:52,121 - INFO - Returning empty segments list
+2025-12-12 20:25:52,155 - INFO - Wrote SRT: data\transcripts\videoplayback.srt
+2025-12-12 20:39:41,611 - INFO - Loading Whisper model: small
+2025-12-12 20:39:48,923 - INFO - Successfully loaded Whisper model: small
+2025-12-12 20:39:48,923 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 20:39:48,945 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 20:39:48,946 - INFO - Returning empty segments list
+2025-12-12 20:39:49,045 - INFO - Wrote SRT: data\transcripts\The ABC Song  CoComelon Nursery Rhymes & Kids Songs - Cocomelon - Nursery Rhymes (360p, h264).srt
+2025-12-12 20:49:14,677 - INFO - Loading Whisper model: small
+2025-12-12 20:49:20,369 - INFO - Successfully loaded Whisper model: small
+2025-12-12 20:49:20,369 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 20:49:20,384 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 20:49:20,384 - INFO - Returning empty segments list
+2025-12-12 20:49:20,427 - INFO - Created placeholder SRT (no audio): data\transcripts\jNQXAC9IVRw.srt
+2025-12-12 21:16:39,720 - INFO - Loading Whisper model: small
+2025-12-12 21:16:53,093 - INFO - Successfully loaded Whisper model: small
+2025-12-12 21:16:53,094 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 21:16:53,126 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 21:16:53,126 - INFO - Returning empty segments list
+2025-12-12 21:16:53,175 - INFO - Created placeholder SRT (no audio): data\transcripts\3WrZMzqpFTc.srt
+2025-12-12 22:04:28,701 - INFO - Loading Whisper model: small
+2025-12-12 22:04:37,339 - INFO - Successfully loaded Whisper model: small
+2025-12-12 22:04:37,340 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-12 22:04:37,415 - ERROR - Transcription failed: [WinError 2] The system cannot find the file specified
+2025-12-12 22:04:37,415 - INFO - Returning empty segments list
+2025-12-12 22:04:37,696 - INFO - Created placeholder SRT (no audio): data\transcripts\3WrZMzqpFTc.srt
+2025-12-15 19:10:30,356 - INFO - Loading Whisper model: small
+2025-12-15 19:10:35,258 - INFO - Successfully loaded Whisper model: small
+2025-12-15 19:10:35,259 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-15 19:11:02,290 - INFO - Transcribed 14 segments, total duration: 61.0s
+2025-12-15 19:11:02,301 - INFO - Saved transcript JSON to data\transcripts\TIUC9mQQQYY_whisper.json
+2025-12-15 19:11:02,446 - INFO - Wrote SRT with 14 segments: data\transcripts\TIUC9mQQQYY.srt
+2025-12-15 19:14:02,291 - INFO - Loading Whisper model: small
+2025-12-15 19:14:06,151 - INFO - Successfully loaded Whisper model: small
+2025-12-15 19:14:06,151 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-15 19:14:33,195 - INFO - Transcribed 15 segments, total duration: 60.0s
+2025-12-15 19:14:33,216 - INFO - Saved transcript JSON to data\transcripts\videoplayback (1)_whisper.json
+2025-12-15 19:14:33,372 - INFO - Wrote SRT with 15 segments: data\transcripts\videoplayback (1).srt

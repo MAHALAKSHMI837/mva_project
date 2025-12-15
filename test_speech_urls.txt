@@ -1,0 +1,15 @@
+Try these YouTube URLs that have clear speech:
+
+1. TED Talk (English speech):
+https://www.youtube.com/watch?v=9bZkp7q19f0
+
+2. News interview:
+https://www.youtube.com/watch?v=xuCn8ux2gbs
+
+3. Tutorial with narration:
+https://www.youtube.com/watch?v=kqtD5dpn9C8
+
+4. Meeting example:
+https://www.youtube.com/watch?v=JMOOG7rWTPg
+
+These should generate actual transcriptions instead of "[No speech detected]"

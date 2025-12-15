@@ -1,0 +1,26 @@
+2025-12-12 18:57:57,244 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 18:59:14,898 - ERROR - Processing failed: [WinError 2] The system cannot find the file specified
+2025-12-12 19:04:08,145 - ERROR - Processing failed: Command '['ffmpeg', '-y', '-i', 'data\\videos\\watch.mp4', '-vf', 'subtitles=data\\transcripts\\watch.srt', '-c:a', 'copy', 'data\\captioned\\watch_captioned.mp4']' returned non-zero exit status 3199971767.
+2025-12-12 19:06:20,977 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 19:07:08,233 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 19:09:17,818 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 19:18:01,758 - ERROR - Processing failed: Corrupted video file. Try re-downloading: C:\Users\Dell\Downloads\W&W - OIIA OIIA (Spinning Cat) - W&W (720p, h264).mp4
+2025-12-12 19:19:36,100 - ERROR - Processing failed: Video file is too small (0 bytes). File may be corrupted.
+2025-12-12 19:19:44,957 - ERROR - Processing failed: Video file is too small (0 bytes). File may be corrupted.
+2025-12-12 19:24:02,612 - ERROR - Processing failed: Video file is too small (0 bytes). File may be corrupted.
+2025-12-12 19:26:17,861 - ERROR - Processing failed: Video file is too small (0 bytes). File may be corrupted.
+2025-12-12 19:26:35,289 - ERROR - Processing failed: Video file is too small (0 bytes). File may be corrupted.
+2025-12-12 19:30:24,529 - ERROR - Processing failed: Video file is too small (0 bytes). File may be corrupted.
+2025-12-12 19:32:45,582 - ERROR - Processing failed: [WinError 2] The system cannot find the file specified
+2025-12-12 20:00:21,063 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 20:00:28,066 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 20:00:44,969 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 20:01:01,792 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 20:04:57,705 - ERROR - Processing failed: [WinError 2] The system cannot find the file specified
+2025-12-12 20:08:23,799 - ERROR - Processing failed: [WinError 2] The system cannot find the file specified
+2025-12-12 20:23:25,472 - ERROR - Processing failed: [Errno 13] Permission denied: 'data\\reports\\videoplayback_report.docx'
+2025-12-12 20:43:50,482 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 20:45:30,176 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 20:45:38,046 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-12 20:45:43,937 - ERROR - Processing failed: HTTP Error 400: Bad Request
+2025-12-15 19:11:02,618 - ERROR - Processing failed: Command '['ffmpeg', '-y', '-i', 'data\\videos\\TIUC9mQQQYY.mp4', '-vf', 'subtitles=data\\transcripts\\TIUC9mQQQYY.srt', '-c:a', 'copy', 'data\\captioned\\TIUC9mQQQYY_captioned.mp4']' returned non-zero exit status 4294967294.

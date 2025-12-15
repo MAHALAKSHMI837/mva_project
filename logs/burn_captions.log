@@ -1,0 +1,24 @@
+2025-12-12 18:59:14,891 - INFO - Running ffmpeg to burn subtitles...
+2025-12-12 19:04:07,913 - INFO - Running ffmpeg to burn subtitles...
+2025-12-12 19:04:08,144 - ERROR - ffmpeg failed: Command '['ffmpeg', '-y', '-i', 'data\\videos\\watch.mp4', '-vf', 'subtitles=data\\transcripts\\watch.srt', '-c:a', 'copy', 'data\\captioned\\watch_captioned.mp4']' returned non-zero exit status 3199971767.
+2025-12-12 19:32:45,571 - INFO - Running ffmpeg to burn subtitles...
+2025-12-12 20:04:57,690 - INFO - Running ffmpeg to burn subtitles...
+2025-12-12 20:08:23,766 - INFO - Running ffmpeg to burn subtitles...
+2025-12-12 20:14:50,071 - ERROR - FFmpeg not found in any common location
+2025-12-12 20:14:50,080 - INFO - Copied original video (no captions): data\captioned\videoplayback_captioned.mp4
+2025-12-12 20:23:25,256 - ERROR - FFmpeg not found in any common location
+2025-12-12 20:23:25,265 - INFO - Copied original video (no captions): data\captioned\videoplayback_captioned.mp4
+2025-12-12 20:25:52,157 - ERROR - FFmpeg not found in any common location
+2025-12-12 20:25:52,165 - INFO - Copied original video (no captions): data\captioned\videoplayback_captioned.mp4
+2025-12-12 20:39:49,048 - ERROR - FFmpeg not found in any common location
+2025-12-12 20:39:49,065 - INFO - Copied original video (no captions): data\captioned\The ABC Song  CoComelon Nursery Rhymes & Kids Songs - Cocomelon - Nursery Rhymes (360p, h264)_captioned.mp4
+2025-12-12 20:49:20,432 - ERROR - FFmpeg not found in any common location
+2025-12-12 20:49:20,440 - INFO - Copied original video (no captions): data\captioned\jNQXAC9IVRw_captioned.mp4
+2025-12-12 21:16:53,183 - ERROR - FFmpeg not found in any common location
+2025-12-12 21:16:53,205 - INFO - Copied original video (no captions): data\captioned\3WrZMzqpFTc_captioned.mp4
+2025-12-12 22:04:37,707 - ERROR - FFmpeg not found in any common location
+2025-12-12 22:04:37,757 - INFO - Copied original video (no captions): data\captioned\3WrZMzqpFTc_captioned.mp4
+2025-12-15 19:11:02,508 - INFO - Running ffmpeg to burn subtitles...
+2025-12-15 19:11:02,616 - ERROR - ffmpeg failed: Command '['ffmpeg', '-y', '-i', 'data\\videos\\TIUC9mQQQYY.mp4', '-vf', 'subtitles=data\\transcripts\\TIUC9mQQQYY.srt', '-c:a', 'copy', 'data\\captioned\\TIUC9mQQQYY_captioned.mp4']' returned non-zero exit status 4294967294.
+2025-12-15 19:14:33,446 - INFO - Running ffmpeg to burn subtitles...
+2025-12-15 19:14:39,130 - INFO - Captioned video saved to data\captioned\videoplayback (1)_captioned.mp4

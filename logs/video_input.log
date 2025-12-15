@@ -1,0 +1,57 @@
+2025-12-12 18:57:56,964 - INFO - Downloading YouTube: https://www.youtube.com/watch?v=huywVCJvqn4
+2025-12-12 18:57:57,243 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 18:58:07,471 - INFO - Downloading HTTP resource: https://www.youtube.com/watch?v=huywVCJvqn4
+2025-12-12 18:58:09,399 - INFO - Saved to data\videos\watch.mp4
+2025-12-12 19:03:55,653 - INFO - Downloading HTTP resource: https://www.youtube.com/watch?v=huywVCJvqn4
+2025-12-12 19:03:57,033 - INFO - Saved to data\videos\watch.mp4
+2025-12-12 19:06:20,766 - INFO - Downloading YouTube: https://www.youtube.com/watch?v=huywVCJvqn4
+2025-12-12 19:06:20,976 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 19:07:08,003 - INFO - Downloading YouTube: https://youtu.be/huywVCJvqn4
+2025-12-12 19:07:08,231 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 19:09:17,638 - INFO - Downloading YouTube: https://youtu.be/huywVCJvqn4
+2025-12-12 19:09:17,816 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 19:13:33,403 - WARNING - File format .mp3 may not be supported. Supported: ['.mp4', '.mov', '.avi', '.mkv', '.wmv', '.flv', '.webm']
+2025-12-12 19:13:33,404 - INFO - Video file size: 5.1 MB
+2025-12-12 19:18:00,794 - INFO - Video file size: 0.0 MB
+2025-12-12 19:19:36,096 - INFO - Video file size: 0.0 MB
+2025-12-12 19:19:44,953 - INFO - Video file size: 0.0 MB
+2025-12-12 19:24:02,609 - INFO - Video file size: 0.0 MB
+2025-12-12 19:26:17,857 - INFO - Video file size: 0.0 MB
+2025-12-12 19:26:35,286 - INFO - Video file size: 0.0 MB
+2025-12-12 19:30:24,526 - INFO - Video file size: 0.0 MB
+2025-12-12 19:31:24,240 - INFO - Video file size: 0.3 MB
+2025-12-12 20:00:20,835 - INFO - Downloading YouTube: https://www.youtube.com/watch?v=3WrZMzqpFTc
+2025-12-12 20:00:21,061 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 20:00:27,927 - INFO - Downloading YouTube: https://www.youtube.com/watch?v=3WrZMzqpFTc
+2025-12-12 20:00:28,065 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 20:00:44,832 - INFO - Downloading YouTube: https://www.youtube.com/watch?v=3WrZMzqpFTc
+2025-12-12 20:00:44,968 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 20:01:01,653 - INFO - Downloading YouTube: https://www.youtube.com/watch?v=3WrZMzqpFTc
+2025-12-12 20:01:01,791 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 20:01:10,145 - INFO - Video file size: 0.3 MB
+2025-12-12 20:05:20,646 - INFO - Video file size: 2.5 MB
+2025-12-12 20:12:37,212 - INFO - Video file size: 2.5 MB
+2025-12-12 20:21:12,294 - INFO - Video file size: 2.5 MB
+2025-12-12 20:23:42,923 - INFO - Video file size: 2.5 MB
+2025-12-12 20:35:37,563 - INFO - Video file size: 9.6 MB
+2025-12-12 20:43:50,073 - INFO - Downloading YouTube: https://www.youtube.com/shorts/sjKcLEVhNfc?feature=share
+2025-12-12 20:43:50,480 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 20:45:30,049 - INFO - Downloading YouTube: https://www.youtube.com/watch?v=jNQXAC9IVRw
+2025-12-12 20:45:30,176 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 20:45:37,888 - INFO - Downloading YouTube: http://www.youtube.com/watch?v=jNQXAC9IVRw
+2025-12-12 20:45:38,045 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 20:45:43,781 - INFO - Downloading YouTube: http://www.youtube.com/watch?v=jNQXAC9IVRw
+2025-12-12 20:45:43,935 - ERROR - YouTube download failed: HTTP Error 400: Bad Request
+2025-12-12 20:49:07,025 - INFO - Downloading YouTube: https://www.youtube.com/watch?v=jNQXAC9IVRw
+2025-12-12 20:49:07,026 - INFO - Trying yt-dlp downloader...
+2025-12-12 20:49:11,189 - INFO - Downloaded with yt-dlp: data\videos\jNQXAC9IVRw.mp4
+2025-12-12 20:52:05,799 - INFO - Downloading YouTube: https://youtu.be/3WrZMzqpFTc
+2025-12-12 20:52:05,800 - INFO - Trying yt-dlp downloader...
+2025-12-12 20:52:14,603 - INFO - Downloaded with yt-dlp: data\videos\3WrZMzqpFTc.mp4
+2025-12-12 21:22:10,177 - INFO - Downloading YouTube: https://youtu.be/3WrZMzqpFTc
+2025-12-12 21:22:10,178 - INFO - Trying yt-dlp downloader...
+2025-12-12 21:22:16,876 - INFO - Downloaded with yt-dlp: data\videos\3WrZMzqpFTc.mp4
+2025-12-15 18:58:12,871 - INFO - Downloading YouTube: https://youtu.be/TIUC9mQQQYY
+2025-12-15 18:58:12,872 - INFO - Trying yt-dlp downloader...
+2025-12-15 18:58:37,250 - INFO - Downloaded with yt-dlp: data\videos\TIUC9mQQQYY.mp4
+2025-12-15 19:12:47,413 - INFO - Video file size: 3.5 MB
