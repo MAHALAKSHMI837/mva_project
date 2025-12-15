@@ -97,3 +97,9 @@ Error opening input files: Invalid data found when processing input
 2025-12-15 19:14:33,195 - INFO - Transcribed 15 segments, total duration: 60.0s
 2025-12-15 19:14:33,216 - INFO - Saved transcript JSON to data\transcripts\videoplayback (1)_whisper.json
 2025-12-15 19:14:33,372 - INFO - Wrote SRT with 15 segments: data\transcripts\videoplayback (1).srt
+2025-12-15 20:35:04,420 - INFO - Loading Whisper model: small
+2025-12-15 20:35:10,935 - INFO - Successfully loaded Whisper model: small
+2025-12-15 20:35:10,948 - INFO - Transcribing audio (this may take a while depending on video length)...
+2025-12-15 20:36:24,065 - INFO - Transcribed 22 segments, total duration: 97.0s
+2025-12-15 20:36:24,084 - INFO - Saved transcript JSON to data\transcripts\videoplayback_whisper.json
+2025-12-15 20:36:24,258 - INFO - Wrote SRT with 22 segments: data\transcripts\videoplayback.srt
